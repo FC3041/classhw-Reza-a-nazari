@@ -100,7 +100,7 @@ int main()
 
     double result3 = d1.distance(d2);
 
-    cout<<" fasele hast : " << result3 <<endl;
+    cout<<" fasele markaz do dayere az ham hast : " << result3 <<endl;
 
 
     double result4 = d1.distance_noghte(m,n);
@@ -111,7 +111,7 @@ int main()
     {
         cout <<"noghte mad nazar shoma yani("<<m<<","<<n<<") -----BiROn dayere ast-----"<<endl ; 
     }
-    else if (result4 = shoae_dire1)
+    else if (result4 == shoae_dire1)
     {
         cout <<"noghte mad nazar shoma yani("<<m<<","<<n<<") -----Roy dayere ast-----"<<endl ;
     }
