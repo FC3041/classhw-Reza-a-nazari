@@ -3,7 +3,7 @@ using namespace std ;
 
 //append
 //pop
-//len
+
 //sort
 //max
 //min
