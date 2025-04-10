@@ -1,0 +1,15 @@
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\bin\Debug\net9.0\S13hw.exe
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\bin\Debug\net9.0\S13hw.deps.json
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\bin\Debug\net9.0\S13hw.runtimeconfig.json
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\bin\Debug\net9.0\S13hw.dll
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\bin\Debug\net9.0\S13hw.pdb
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.AssemblyInfoInputs.cache
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.AssemblyInfo.cs
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.csproj.CoreCompileInputs.cache
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.sourcelink.json
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.dll
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\refint\S13hw.dll
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.pdb
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\S13hw.genruntimeconfig.cache
+C:\git\classhw-Reza-a-nazari\S13\hw\S13hw\obj\Debug\net9.0\ref\S13hw.dll
