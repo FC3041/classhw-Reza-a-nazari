@@ -1,0 +1,15 @@
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\bin\Debug\net9.0\S15.exe
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\bin\Debug\net9.0\S15.deps.json
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\bin\Debug\net9.0\S15.runtimeconfig.json
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\bin\Debug\net9.0\S15.dll
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\bin\Debug\net9.0\S15.pdb
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.AssemblyInfoInputs.cache
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.AssemblyInfo.cs
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.csproj.CoreCompileInputs.cache
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.sourcelink.json
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.dll
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\refint\S15.dll
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.pdb
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\S15.genruntimeconfig.cache
+C:\git\classhw-Reza-a-nazari\S15\hw\S15\obj\Debug\net9.0\ref\S15.dll
