@@ -9,7 +9,7 @@ class Program
     }
     static void Main(string[] args)
     {
-        Teacher jadid = new Teacher("Iliya","hosseini_zade",555666,true,1613339909,360000000,20,97389343);
+        Teacher jadid = new Teacher("Iliya","hosseini_zade",555666,true,1613339909,360000000,3.5,97389343);
         Print_teacher([jadid]);
     }
 }
